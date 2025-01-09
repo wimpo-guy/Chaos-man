@@ -1,4 +1,4 @@
-﻿-- Place this script in a LocalScript
+-- Place this script in a LocalScript
 
 local player = game.Players.LocalPlayer
 local gui = game:GetService("StarterGui")
